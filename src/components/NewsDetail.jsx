@@ -328,7 +328,7 @@ function NewsDetail() {
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
+          <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-12">
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <div className="w-2 h-2 bg-orange-500 rounded-full"></div>
@@ -371,7 +371,7 @@ function NewsDetail() {
               </ul>
             </div>
             <div className="text-sm text-gray-300">
-              <p className="mb-4">© 2024 Trampexpert Inc.</p>
+              <p className="mb-4">© 2025 Trampexpert Inc.</p>
               <div className="flex space-x-4">
                 <button className="hover:text-orange-500 transition-colors">
                   <Twitter size={18} />
